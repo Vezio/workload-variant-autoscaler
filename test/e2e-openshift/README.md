@@ -113,8 +113,8 @@ LLMD_NAMESPACE       = llm-d-inference-scheduling
 GATEWAY_NAME         = infra-inference-scheduling-inference-gateway
 MODEL_ID             = unsloth/Meta-Llama-3.1-8B
 DEPLOYMENT           = ms-inference-scheduling-llm-d-modelservice-decode
-REQUEST_RATE         =20
-NUM_PROMPTS          =3000
+REQUEST_RATE         = 20
+NUM_PROMPTS          = 3000
 ```
 
 
